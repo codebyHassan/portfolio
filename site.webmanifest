@@ -1,0 +1,27 @@
+{
+    "name": "CodeByHassan - Hassan Afzal Portfolio",
+    "short_name": "CodeByHassan",
+    "description": "Full Stack Developer Portfolio - Hassan Afzal | .NET MVC Core 8, Django, EF Core, SQL Server, AI Tools, CI/CD",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#536DFE",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "images/favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "images/favicon-16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "images/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+# robots.txt for CodeByHassan Portfolio
+# https://codebyhassan.github.io/portfolio/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://codebyhassan.github.io/portfolio/sitemap.xml
+
+# Disallow temporary/unnecessary paths
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /favicons/
